@@ -1,7 +1,17 @@
 # Open Extendable Local Job Finder Bot (ELJFB)
 
-## What is ELJFB?
+## What will be (ELJFB)
 
-ELJFB is a bot that searches for jobs in your area and sends them to you via push notifications. It is currently in development and is not yet ready for use.
+There is one main goal of the project and that is to aid the user in finding a job and make it as easy as possible to do so
 
-## How does ELJFB work?
+### What is the problem (ELJFB) will solve
+
+The problem is that there are many job sources and it is hard to find the right job for you and that the average user only has so much time to spend on finding a job.
+
+### How will (ELJFB) solve the problem
+
+(ELJFB) will solve the problem by making it easy to find a job by having the user talk to the bot and the bot will find the job for the user.
+
+## How to use (ELJFB)
+
+### How to install (ELJFB)
