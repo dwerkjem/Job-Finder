@@ -1,6 +1,5 @@
 # this is the main file for the project and will be the entry point for the program
 # this file will be responsible for running the program and calling the other files
-import sys
 import requests
 import os
 from dotenv import load_dotenv

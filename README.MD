@@ -12,6 +12,6 @@ The problem is that there are many job sources and it is hard to find the right 
 
 (ELJFB) will solve the problem by making it easy to find a job by having the user talk to the bot and the bot will find the job for the user.
 
-## How to use (ELJFB)
-
 ### How to install (ELJFB)
+
+## How to use (ELJFB)
